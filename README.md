@@ -1,0 +1,2 @@
+# Paddle_yolo_cpp_demo
+在比特大陆AI硬件上运行paddle yolo模型的demo
